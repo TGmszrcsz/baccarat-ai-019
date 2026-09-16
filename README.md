@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：历史统计
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 018 篇 - 百家乐Ai预测分析工具：重复识别会怎样扭曲历史占比](https://github.com/TGmszrcsz/baccarat-ai-018) ｜ [下一篇：第 020 篇 - 百家乐Ai预测分析工具：分组统计与总体统计为什么可能相反](https://github.com/TGmszrcsz/baccarat-ai-020)
+
+<!-- article-chain:end -->
+
 少量记录出现明显偏向，文章容易写成长期规律。本篇围绕“小样本中的大幅波动应怎样描述”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、为什么值得单独检查
